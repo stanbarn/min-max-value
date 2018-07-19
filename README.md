@@ -1,1 +1,1 @@
-# Min-max value HackerRank Challenge
+# Min-max sum HackerRank Challenge
